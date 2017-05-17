@@ -4,5 +4,5 @@ window.onload = function(){
 }
 function hola(){
 	var mensaje = document.getElementById("mensaje");
-	mensaje.innerHTML = "Hola Mundo"
+	mensaje.innerHTML = "HOLA MUNDO"
 }

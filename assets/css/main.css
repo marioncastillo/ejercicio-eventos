@@ -1,1 +1,36 @@
-main.css
+
+*{
+	font-family: 'Din', sans-serif;
+
+}
+
+body{
+	background-image: url(../mundo.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+#demo {
+	font-size: 30px;
+	font-weight: bold;
+	color:white;
+	background: blue;
+	border: 2px;
+	width: 200px;
+	height: 40px;
+	margin-left: 500px;
+	margin-top: 30px;
+
+
+
+}
+
+#mensaje{
+font-size: 100px;
+color:white;
+border: 2px;
+	margin-left: 300px;
+	margin-top: 350px;
+
+}
